@@ -1,0 +1,35 @@
+.body{
+  margin: 0;
+  padding: 0;
+}
+
+.head{
+  margin: 30px;
+  background-color: #ffbe33;
+  width: 95%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.s{
+  display: flex;
+position: relative;
+background-color: aliceblue;
+width: 5%;
+height: 30px;
+margin: 20px;
+}
+
+.fa-cart-shopping{
+  position: absolute;
+  top: 9px;
+  left: 67%;
+
+}
+
+p{
+position: absolute;
+bottom: -31%;
+  left: 24%;
+}
